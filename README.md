@@ -3,7 +3,7 @@
 Hi! Saya **Fatikha Naila N. S.**, peserta Project-Based Internship Program di ID/X Partners. Proyek ini berfokus pada analisis risiko kredit nasabah menggunakan Machine Learning.
 
 ## 📌 Deskripsi Proyek
-Proyek ini bertujuan untuk membangun model yang dapat memprediksi probabilitas nasabah gagal bayar (*Bad Loan*). Dengan dataset sebanyak **465,945 baris**, saya melakukan pembersihan data, penanganan ketidakseimbangan data (SMOTE), dan permodelan klasifikasi.
+Proyek ini bertujuan untuk membangun model yang dapat memprediksi probabilitas nasabah gagal bayar (*Bad Loan*). Dengan dataset sebanyak **466,284 baris**, saya melakukan pembersihan data, penanganan ketidakseimbangan data (SMOTE), dan permodelan klasifikasi.
 
 ## 📊 Key Highlights
 * **Best Model:** XGBoost dengan skor AUC sebesar 0,691.
