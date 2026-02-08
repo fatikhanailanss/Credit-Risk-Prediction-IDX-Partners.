@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk membangun model yang dapat memprediksi probabilitas n
 * **Solution:** Implementasi sistem *Auto-Approval* untuk efisiensi persetujuan kredit.
 
 ## 📂 Isi Repository
-* `*.ipynb` / `*.R`: Script kodingan lengkap dari awal hingga evaluasi.
+* `*.R` / `*.Rmd`: Script kodingan lengkap dari awal hingga evaluasi.
 * `*.pdf`: Laporan presentasi infografis yang merangkum hasil analisis.
 
 ---
